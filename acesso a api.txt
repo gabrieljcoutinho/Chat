@@ -1,0 +1,5 @@
+Acessar o site: https://aistudio.google.com/apikey
+
+Ao entrar gere a chave e troque no index,html que vai ter a marcação de onde colcoar a chave e o chat ja vai funcionar
+
+Toda chave de api é gerada por fora do codigo, então aoa acessar esse código pela priemria vez o chat não funcionará até você usuário colcoar a sua chave do site qeu esta a cima
